@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(224, 201, 136, 0.404);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+ 
+    li{
+      float: left;
+    }
+    a{
+      display: block;
+      padding: 0 65px;
+      color: rgb(14, 5, 5);
+      text-decoration: none;
+    }
+    .Close{
+      color:rgb(8, 7, 7);
+    }
+    .Close h1{
+          font-size: 0.5cm;
+    }
+    p{
+      font-family: 'Times New Roman', Times, serif ;
+    }
+    .close1 h2{
+      color:rgb(19, 18, 18);
+    }
